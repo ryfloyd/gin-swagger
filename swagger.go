@@ -6,7 +6,7 @@ import (
 	"regexp"
 
 	"github.com/gin-gonic/gin"
-	"github.com/swaggo/swag"
+	"github.com/ryfloyd/swag"
 )
 
 // WrapHandler wraps `http.Handler` into `gin.HandlerFunc`.
